@@ -9,4 +9,10 @@ The quiz has 10 questions. Each question has 3 options: A, B, and C. The user is
 
 <img width="322" height="161" alt="image" src="https://github.com/user-attachments/assets/d9d75d9d-075d-4df3-ac5d-aa21d462e233" />
 
+## How to run the program:
+
 The program is run on LC3 Tools v2.0.2
+
+To run the program, open the file quiz.asm in the LC3 simulator. Select the breakpoint at line x3009, and run the program. No additional changes to the registers or memory is necessary.
+
+<img width="371" height="173" alt="image" src="https://github.com/user-attachments/assets/792e6931-274d-4956-89d6-eb669e3080c5" />
